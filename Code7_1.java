@@ -1,8 +1,8 @@
 package pro02;
-	//ÀÌÇ× ¿¬»êÀÚ.
+	//Ã€ÃŒÃ‡Ã— Â¿Â¬Â»ÃªÃ€Ãš.
 
 public class Code7_1 {
-
+ 
 	public static void main(String[] args) {
 		int a = 30, b = 7;
 		int c, d, e, f, g;
@@ -10,8 +10,8 @@ public class Code7_1 {
 		c = a+b;
 		d = a-b;
 		e = a*b;
-		f = a%b;	//³ª¸ÓÁö
-		g = a/b;	//¸ò
+		f = a%b;	//Â³ÂªÂ¸Ã“ÃÃ¶
+		g = a/b;	//Â¸Ã²
 		
 		System.out.println("c: "+c);
 		System.out.println("d: "+d);
