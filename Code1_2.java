@@ -6,6 +6,7 @@ public class Code1_2 {
 		System.out.print("Hello");
 		System.out.print("World");
 		System.out.print("Java coding is fun");
+	
 	}
 
 }
