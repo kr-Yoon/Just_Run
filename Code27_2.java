@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//다차원배열_가변배열
 	//우선 행의 값을 지정한 뒤, 추가 배열을 선언하게되면 우선 지정된 행의 요소는 추가배열의 참조값을 갖게된다.
 public class Code27_2 {

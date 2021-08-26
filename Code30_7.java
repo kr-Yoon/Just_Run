@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//메소드가 배열을 반환하는 경우.
 import java.util.Arrays;
 

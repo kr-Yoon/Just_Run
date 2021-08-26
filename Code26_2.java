@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//1차배열
 	//배열을 모두 출력하기 위해서는 util.Arrays 메소드를 호출해야한다.
 

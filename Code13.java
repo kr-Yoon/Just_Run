@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//대입연산자. 오른쪽의 값을 왼쪽에 넣는다.
 public class Code13 {
 

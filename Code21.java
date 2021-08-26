@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//for 반복문 for(초기문;조건;증감)
 public class Code21 {
 	public static void main(String[] args) {

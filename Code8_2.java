@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//단항연산자 추가실습, 선연산/후증가/대입연산자의 순서를 잘 기억해야한다.
 public class Code8_2 {
 

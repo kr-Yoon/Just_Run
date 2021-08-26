@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 import java.util.Arrays;
 	//배열 복사
 public class Code26_4 {

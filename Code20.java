@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//¹Ýº¹¹® while
 public class Code20 {
 	public static void main(String[] args) {

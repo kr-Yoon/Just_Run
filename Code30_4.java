@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//매개변수와 반환값이 모두 있는 경우.
 import java.util.Scanner;
 

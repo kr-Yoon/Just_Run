@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//삼항연산자 (조건) ? 조건이 참일때 : 조건이 거짓일때
 	//두 수의 비교
 public class Code19 {

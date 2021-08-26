@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//비트논리연산자_2진수 논리 &(and_곱) |(or_합) ^(Xor_다르면 참(1), 같으면 거짓(0))
 public class Code9 {
 	

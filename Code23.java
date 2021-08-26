@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//break 구문_루트를 강제로 종료할때 사용.
 public class Code23 {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//2차원 배열 만들기. data1과 data2는 동일한 결과를 만든다.
 	//
 

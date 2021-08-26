@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//중첩 반복문이란 반복문 안에 다른 반복문을 사용하는것을 의미한다.
 public class Code25 {
 

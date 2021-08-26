@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//메소드 매개변수로 배열을 넘기는 경우, 자료가 아닌 참조값(주소)를 인수로 보낸다.
 import java.util.Arrays;
 public class Code30_6 {

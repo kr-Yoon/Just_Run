@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//배열 대입
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//가변인수
 	//
 public class Code30_8 {

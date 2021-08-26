@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//메소드 오버로딩
 	//동일한 메소드 명에 매개변수가 다를경우 각각에 처리구문이 달라진다.
 public class Code30_9 {

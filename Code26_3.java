@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//배열의 참조값
 public class Code26_3 {
 	public static void main(String[] args) {

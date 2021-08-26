@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 
 public class Code31 {
 	

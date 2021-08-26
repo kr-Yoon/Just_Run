@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//다중 return
 	//메소드에 return이 여러 개 있는 경우, 가장 먼저 만나는 return문을 수행한 뒤 메소드를 종료한다.
 import java.util.Scanner;

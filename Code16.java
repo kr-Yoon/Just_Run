@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//불리언 논리 연산자
 public class Code16 {
 

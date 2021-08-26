@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//형변환 과 캐스트연산자
 public class Code15_1 {
 

@@ -1,5 +1,5 @@
-package pro02;
-	//ÀÌÇ× ¿¬»êÀÚ.
+package Just_Run;
+	//?ÌÇ× ¿¬»ê?Ú.
 
 public class Code7_1 {
  

@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//시프트 연산자, 비트를 해당 괄호의 방향으로 이동. < == 곱셈 > == 나눗셈 2진수 이기때문에 2씩 곱함.
 public class Code10 {
 

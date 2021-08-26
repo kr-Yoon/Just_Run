@@ -1,4 +1,4 @@
-package pro03;
+package Just_Run;
 	//매개변수는 없고, 반환값이 있는 경우.
 public class Code30_3 {
 

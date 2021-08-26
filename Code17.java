@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//조건문의 형태는 if (조건) {참일경우 실행문} 으로 진행된다.
 public class Code17 {
 

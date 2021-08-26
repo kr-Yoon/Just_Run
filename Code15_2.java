@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//캐스트 연산자 보충
 public class Code15_2 {
 

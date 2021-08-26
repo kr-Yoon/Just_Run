@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//논리연산자 A&&B 논리 곱, A||B 논리 합, !A 논리 부정
 
 public class Code12 {

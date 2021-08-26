@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//단항연산자. a++ 선연산 후증가, ++a 선증가 후연산
 public class Code8_1 {
 

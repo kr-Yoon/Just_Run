@@ -1,4 +1,4 @@
-package pro02;
+package Just_Run;
 	//연산자 우선순위_산비논대(산술연산자에서는 단항연산자가 가장 순위가 높다.)
 public class Code14 {
 
