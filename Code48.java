@@ -1,6 +1,6 @@
 package pro05;
-	//ÀÎ½ºÅÏ½º ³»¿¡ ´Ù¸¥ ÀÎ½ºÅÏ½º ÇÊµå¸¦ °¡Áö´Â ¿¹
-	//Student Å¬·¡½º ¸Å°³º¯¼ö¿¡, Score Å¬·¡½º¸¦ ÀÎ¼ö·Î ¹Þ°í, Score Å¬·¡½ºÀÇ ÇÊµå°ªÀ» StudentÅ¬·¡½º¿¡¼­ ¼öÁ¤, Ãâ·Â, ¿¬»êÀÌ °¡´ÉÇÏ°Ô ÇÔ.
+	//ì¸ìŠ¤í„´ìŠ¤ ë‚´ì— ë‹¤ë¥¸ ì¸ìŠ¤í„´ìŠ¤ í•„ë“œë¥¼ ê°€ì§€ëŠ” ì˜ˆ
+	//Student í´ëž˜ìŠ¤ ë§¤ê°œë³€ìˆ˜ì—, Score í´ëž˜ìŠ¤ë¥¼ ì¸ìˆ˜ë¡œ ë°›ê³ , Score í´ëž˜ìŠ¤ì˜ í•„ë“œê°’ì„ Studentí´ëž˜ìŠ¤ì—ì„œ ìˆ˜ì •, ì¶œë ¥, ì—°ì‚°ì´ ê°€ëŠ¥í•˜ê²Œ í•¨.
 
 
 class Score{
@@ -94,7 +94,7 @@ public class Code48 {
 		t1.print();
 		t2.print();
 		
-		
+		 
 	}
 	
 
