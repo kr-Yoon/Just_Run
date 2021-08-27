@@ -7,7 +7,7 @@ public class Code1_1 {
 		System.out.println("World");
 		System.out.println("Java coding is fun");
 
-		
+		 
 	}
 
 }
