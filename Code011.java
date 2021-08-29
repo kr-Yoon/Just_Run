@@ -6,7 +6,7 @@ public class Code011 {
 		int a = 10;
 		int b = 0b1010;
 		int c = 012;
-		int d = 0xa;
+		int d = 0xf;
 		
 		System.out.println(a);
 		System.out.println(b);
