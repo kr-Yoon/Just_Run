@@ -1,7 +1,7 @@
 package JustRunJava;
 	//java는 다중상속은 허용하지 않는다.
 	//다만, 하나의 부모에 무한한 자녀가 상속받을 수 있다.
-class Main1 {
+class Main1 { 
 	int a= 10;
 	
 	void print1() {
@@ -22,7 +22,7 @@ class Sub2 extends Main1 {
 	
 	void print3() {
 		System.out.println("i am sub2 method");
-	}
+	} 
 }
 public class Code080 {
 	public static void main(String[] args) {
