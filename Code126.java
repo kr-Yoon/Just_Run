@@ -6,7 +6,7 @@ public class Code126 {
 		Random r1 = new Random();
 		System.out.println(r1);
 		
-		System.out.println(r1.nextInt());
+		System.out.println(r1.nextInt(100));
 	}
 
 }
