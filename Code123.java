@@ -12,7 +12,7 @@ public class Code123 {
 		System.out.println(sb1);
 		System.out.println(sb2);
 		System.out.println(sb3);
-		
+		  
 		System.out.println(sb1.capacity());
 		System.out.println(sb2.capacity());
 		System.out.println(sb3.capacity());	//StringBuffer의 저장 크기를 반환한다.
