@@ -9,7 +9,7 @@ class GenericTest <T, V>{
 		this.data1 = data1;
 		this.data2 = data2;
 	}
-	
+	  
 	void genericTypeShow() {
 		System.out.println("data1 Type : "+data1.getClass().getName());
 		System.out.println("data2 Type : "+data2.getClass().getName());
