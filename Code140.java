@@ -25,3 +25,4 @@ public class Code140 {
 		System.out.println("dg multiple : "+dg.multiple(10));
 	}
 }
+   
