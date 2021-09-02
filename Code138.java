@@ -4,7 +4,7 @@ package JustRunJava;
 	//기본자료형이 아닌 레퍼런스형만 사용할 수 있다.
  class Data22<T> {
 T obj;
-
+ 
 	Data22(T obj){
 	this.obj = obj;
 	}
