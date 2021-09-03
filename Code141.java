@@ -14,7 +14,7 @@ class WithWild<T extends Number>{
 		}
 		else return false;
 	}
-}
+}   
 public class Code141 {
 	public static void main(String[] args) {
 		WithWild<Double> d = new WithWild<Double>(6.0);
