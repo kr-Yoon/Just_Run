@@ -28,4 +28,4 @@ public class Code146 {
 			System.out.print(li.previous());
 		}
 	}
-}
+}   
