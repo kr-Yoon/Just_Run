@@ -22,4 +22,4 @@ public class Code145 {
 			System.out.println(qTest.poll());
 		}
 	}
-}
+}  
