@@ -12,7 +12,7 @@ public class Code142 {
 		listTest.add("Yoon");
 		listTest.add("sang");
 		listTest.add("hyun");
-		
+		  
 		for(int i=0; i<listTest.size();i++) {
 			System.out.println(listTest.get(i));
 		}
