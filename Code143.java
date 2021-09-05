@@ -19,7 +19,7 @@ public static void main(String[] args) {
 	for(String s : llTest) {
 		System.out.println(s);
 	}
-	
+	   
 	System.out.println("-----------Iterator-----------");
 	
 	Iterator<String> iter = llTest.iterator();
