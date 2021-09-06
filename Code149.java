@@ -36,6 +36,6 @@ public class Code149 {
 		for(Person2 p:ts) {
 			System.out.println(p);
 		}
-	}
+	}   
 
 }
