@@ -24,7 +24,7 @@ public class Code152 {
 		map.put(2, new Person3("Alice", 80));
 		map.put(5, new Person3("Cindy", 77));
 		map.put(4, new Person3("Jenny", 93));
-		
+		   
 		Set<Integer> keySet = map.keySet();
 		System.out.println(keySet);
 		System.out.println("=============================");
