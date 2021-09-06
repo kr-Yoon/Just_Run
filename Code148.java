@@ -33,5 +33,5 @@ public class Code148 {
 			System.out.println(iter.next());
 		}
 	}
-
+   
 }
