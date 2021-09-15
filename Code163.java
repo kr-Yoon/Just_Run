@@ -37,11 +37,12 @@ public class Code163 {
 		
 		String allow;
 		String quest;
-		boolean flag = false;
+		
 		
 		Scanner text = new Scanner(System.in);
 		
 		while(true) {
+			boolean flag = false;
 			
 			System.out.println("계속 검색 하시겠습니까? (y/n)");
 			allow = text.next();
