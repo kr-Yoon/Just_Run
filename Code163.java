@@ -37,7 +37,7 @@ public class Code163 {
 		
 		String allow;
 		String quest;
-		
+		  
 		
 		Scanner text = new Scanner(System.in);
 		
