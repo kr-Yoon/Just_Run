@@ -43,3 +43,37 @@ public class Code166 {
 		scan.close();
 	}
 }
+
+/* 
+다른 풀이 (유튜브 풀이)
+
+package _4_DecToBin;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		int inputNum = 25;
+		int bin[] = new int[100]; 
+		
+		
+		
+		int i = 0;
+		int mok = inputNum;
+		
+		while (mok > 0) {
+			bin[i] = mok % 2;
+			mok /= 2;
+			i++;
+		}
+		
+		i--;
+		for (; i>=0; i--) {
+			System.out.print(bin[i]);
+		}
+		
+	}
+
+}
+
+*/
