@@ -1,5 +1,5 @@
 package JustRunJava;
-// ÀÚ¹Ù ¾Ë°í¸®Áò ¿¹Á¦ 100_2 ÇÇº¸³ªÄ¡ ¼ö¿­
+// ìžë°” ì•Œê³ ë¦¬ì¦˜ ì˜ˆì œ 100_2 í”¼ë³´ë‚˜ì¹˜ ìˆ˜ì—´
 import java.util.Scanner;
 
 public class Code164 {
@@ -25,14 +25,64 @@ public class Code164 {
 		int i = 0;
 		for(String answer="y";answer.equals("y");i++) {
 				
-			System.out.println("ÇÇº¸³ªÄ¡ ¼ö¿­ "+(i+1)+" ¹øÂ° : ["+Fibo(i)+"]");
+			System.out.println("í”¼ë³´ë‚˜ì¹˜ ìˆ˜ì—´ "+(i+1)+" ë²ˆì§¸ : ["+Fibo(i)+"]");
 			
-			System.out.println("´ÙÀ½ °á°ú¸¦ º¸½Ã°Ú½À´Ï±î? (y/n)");
+			System.out.println("ë‹¤ìŒ ê²°ê³¼ë¥¼ ë³´ì‹œê² ìŠµë‹ˆê¹Œ? (y/n)");
 			answer = sc.next();
 		}
-		System.out.println("ÇÇº¸³ªÄ¡ ¼ö¿­À» Á¾·áÇÕ´Ï´Ù..");
+		System.out.println("í”¼ë³´ë‚˜ì¹˜ ìˆ˜ì—´ì„ ì¢…ë£Œí•©ë‹ˆë‹¤..");
 		sc.close();
 
 	}
 
 }
+
+/* 
+ë‹¤ë¥¸ í’€ì´ (ìœ íŠœë¸Œ í’€ì´)
+
+package _2;
+
+public class Main {
+
+	public static void main(String[] args) {
+
+		int []arr = new int[100];
+		
+		//An = An-1 + An-2;  n>=3
+		//a1 = 1, a2 = 1
+		arr[1] = 1;
+		arr[2] = 1;
+		
+		for (int i=3; i<100; i++) {
+			arr[i] = arr[i-1] + arr[i-2];
+		}
+		
+		for (int i=1; i<=10; i++) {
+			System.out.print(arr[i]+" ");
+		}
+		
+		//2Â¹Ã¸Ã‚Â° Â¹Ã¦Â¹Ã½.
+		//An
+		//An = An-1 + An-2;  n>=3
+		//a1 = 1, a2 = 1
+		System.out.println();
+		
+		int prevPrevNum = 1; //An-2 
+		int prevNum = 1;      //An-1
+		System.out.print(prevPrevNum+" ");
+		System.out.print(prevNum+" ");
+		
+		for (int i=3; i<=10; i++) {
+			int nNum = prevPrevNum+prevNum;
+			System.out.print(nNum+" ");
+			
+			prevPrevNum = prevNum;
+			prevNum = nNum;
+		}
+		
+
+	}
+
+}
+
+*/
