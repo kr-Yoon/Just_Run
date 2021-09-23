@@ -46,7 +46,7 @@ public class Code166 {
 
 /* 
 다른 풀이 (유튜브 풀이)
-
+https://github.com/control-man/jinsslecture_basic_algorithm
 package _4_DecToBin;
 
 public class Main {
