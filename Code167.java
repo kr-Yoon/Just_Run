@@ -1,9 +1,9 @@
 package JustRunJava;
-
-import java.util.Scanner;
-
 //대문자 > 소문자, 소문자 > 대문자 변환
 //아스키 코드 소문자 a~z : 97 ~ 122, 대문자 A~Z : 65 ~ 90.  +- 32의 패턴을 갖음
+import java.util.Scanner;
+
+
 public class Code167 {
 
 	public static void main(String[] args) {
@@ -48,7 +48,7 @@ public class Code167 {
 
 /* 
 다른 풀이 (유튜브 풀이)
-https://github.com/control-man/jinsslecture_basic_algorithm
+출처 : https://github.com/control-man/jinsslecture_basic_algorithm
 package _5_CapToLow;
 
 public class Main {
