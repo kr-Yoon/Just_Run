@@ -1,10 +1,10 @@
 package JustRunJava;
-
+//10진수를 2진수로 변환
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-//10진수를 2진수로 변환
+
 public class Code166 {
 
 	public static void main(String[] args) {
@@ -46,7 +46,7 @@ public class Code166 {
 
 /* 
 다른 풀이 (유튜브 풀이)
-https://github.com/control-man/jinsslecture_basic_algorithm
+출처 : https://github.com/control-man/jinsslecture_basic_algorithm
 package _4_DecToBin;
 
 public class Main {
