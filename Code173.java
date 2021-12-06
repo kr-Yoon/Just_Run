@@ -2,22 +2,22 @@ package JustRunJava;
 
 class Parent {
 	Parent() {
-		System.out.println("ºÎ¸ğ Å¬·¡½º");
+		System.out.println(" ë¶€ëª¨ í´ë˜ìŠ¤ ");
 	}
 }
 
 public class Code173 extends Parent {
 	
 	Code173(){
-		System.out.println("ÀÚ½Ä Å¬·¡½º");
+		System.out.println(" ìì‹ í´ë˜ìŠ¤ ");
 	}
 	
 	public static void main(String[] args) {
 		
-		Parent pa = new Parent();	//Çã¿ë
-		Code173 ch = new Code173();	//Çã¿ë
-		Parent pc = new Code173();	//Çã¿ë
-		Code173 cp = new Parent();	// ¿À·ù¹ß»ı
+		Parent pa = new Parent();	//í—ˆìš©
+		Code173 ch = new Code173();	//í—ˆìš©
+		Parent pc = new Code173();	//í—ˆìš©
+		Code173 cp = new Parent();	// ì˜¤ë¥˜ë°œìƒ
 		
 	}
 
