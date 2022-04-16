@@ -1,7 +1,7 @@
 
 package JustRunJava;
 
-public class Code179 {
+public class Code180 {
   
   // name과 같은 강제연결은 해당 Interface를 구현한 클래스에서 정의한 이름을 찾는다 ( @Service("member2") )
   
