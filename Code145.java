@@ -1,6 +1,6 @@
 package JustRunJava;
-	//Queue´Â ÀÎÅÍÆäÀÌ½ºÀÌ±â ¶§¹®¿¡ »ı¼ºÀÚ°¡ ¾ø¾î, Queue¸¦ ±¸ÇöÇÏ·Á¸é ÇÏÀ§ Å¬·¡½º¸¦ »ç¿ëÇØ¾ßÇÑ´Ù LinkedList¸¦ ÀÌ¿ë.
-	//StackÀÌ ¸·Èù ¿øÅë ±¸Á¶¶ó¸é, Queue´Â ¶Õ¸° ¿øÅë ±¸Á¶ÀÌ´Ù.
+	//QueueëŠ” ì¸í„°í˜ì´ìŠ¤ì´ê¸° ë•Œë¬¸ì— ìƒì„±ìê°€ ì—†ì–´, Queueë¥¼ êµ¬í˜„í•˜ë ¤ë©´ í•˜ìœ„ í´ë˜ìŠ¤ë¥¼ ì‚¬ìš©í•´ì•¼í•œë‹¤ LinkedListë¥¼ ì´ìš©.
+	//Stackì´ ë§‰íŒ ì›í†µ êµ¬ì¡°ë¼ë©´, QueueëŠ” ëš«ë¦° ì›í†µ êµ¬ì¡°ì´ë‹¤.
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -16,7 +16,7 @@ public class Code145 {
 		data = qTest.poll();
 		qTest.add(40);
 		System.out.println(data);
-		
+		 
 		
 		while(!qTest.isEmpty()) {
 			System.out.println(qTest.poll());
